@@ -10,7 +10,7 @@
 
 - 👨‍💻 Explore my projects at [dayronportfolio.netlify.app](https://dayronportfolio.netlify.app)
 
-- 💬 Ask me about **React, Angular, Flutter, Python, Node.js, Java, C#**
+- 💬 Ask me about **React, Angular, Flutter, Python, Node.js, C#**
 
 - 📫 Reach me at **dayronpc24@gmail.com**
 
