@@ -1,4 +1,4 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/dayron24/dayron24/master/wave.gif" width = 40px> </h1>
+<h1> Hi there! </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Dayron+Padilla;Software+Engineer;Full+Stack+Developer;Mobile+Developer">
 </p>
@@ -24,8 +24,6 @@
 <a href="mailto:dayronpc24@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dayron-lee-padilla-cubillo-29ba53246" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
