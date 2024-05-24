@@ -108,7 +108,7 @@
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=dayron24&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
-<!-- 
+
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
@@ -116,7 +116,8 @@
 </p>
 <hr>
 <br>
--->
+
+<!-- 
 ## Most Used Languages 📚
 <br>
 <p align='center'>
@@ -125,5 +126,6 @@
 
 <hr>
 <br>
+-->
 
 ------
