@@ -117,7 +117,7 @@
 <hr>
 <br>
 
-<!-- 
+
 ## Most Used Languages 📚
 <br>
 <p align='center'>
@@ -126,6 +126,5 @@
 
 <hr>
 <br>
--->
 
-------
+
