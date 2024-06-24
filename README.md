@@ -121,7 +121,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dayron24&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=html&hide=java">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dayron24&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=html||java">
 </p>
 
 <hr>
